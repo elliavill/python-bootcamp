@@ -1,3 +1,12 @@
+""" 
+   Program requirements
+   1. Print reports
+   2. Check if resouces sufficient to make drink order
+   3. Process coins
+   4. Check if the transaction is successful
+   5. Make coffee
+
+"""
 MENU = {
     "espresso": {
         "ingredients": {
