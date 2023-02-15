@@ -11,7 +11,7 @@ user_bet = screen.textinput(title="Make your bet", prompt="Which turtle will win
 
 # Get all the turtles' positions
 colors = ["red", "orange", "yellow", "green", "blue", "purple"]
-y_positions = [-70, -40, -10, 20, 50, 80]
+y_positions = [-70, -40, -10, 20, 50, 100]
 all_turtles = []
 
 #Create 6 turtles
